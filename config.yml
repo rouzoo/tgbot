@@ -1,0 +1,3 @@
+token: 'token'
+photo_path: './botStorage/Photos/'
+voice_path: './botStorage/Voices/'
